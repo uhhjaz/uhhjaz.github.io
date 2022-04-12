@@ -87,9 +87,6 @@
 }
 .carousel-caption {
     top: 0;
-    bottom: auto;
-    left: 0;
-    right: auto;
     align-items: flex-start;
     opacity: 0.90;
 }
